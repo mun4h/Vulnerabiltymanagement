@@ -18,7 +18,7 @@ This Project shows a simple demonstartion of how to perform Vulnerability Scanni
 - <b>Set a Virtual Machine</b>
 <br />
 <p align="center">
-<b>Downloading and Installing Nessus Essentials</b> 
+<b>Downloading and Installing Nessus Essentials</b>  </p>
 <br/>
 - Nessus Essentials can be downloaded from [here](https://www.tenable.com/products/nessus/nessus-essentials) 
 
