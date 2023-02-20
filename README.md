@@ -9,7 +9,7 @@ This Project shows a simple demonstartion of how to perform Vulnerability Scanni
 
 - <b>Windows 10</b> (21H2)
 
--<b>Nessus Essentials</b>
+- <b>Nessus Essentials</b>
 
 <h2>Program walk-through:</h2>
 
