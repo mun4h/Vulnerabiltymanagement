@@ -2,7 +2,7 @@
 
 
 <h2>Description</h2>
-This Project shows a simple demonstartion of how to perform Vulnerability Scanning of a  Windows 10 machine using a Scanner called Nessus Essentials.
+This Project shows a simple demonstartion of how to perform Vulnerability Scanning of a  Windows 10 machine virtual machine using a Scanner called Nessus Essentials.
 <br />
 
 <h2>Environments Used </h2>
@@ -19,7 +19,7 @@ This Project shows a simple demonstartion of how to perform Vulnerability Scanni
 <br />
 <p align="center">
 <b>Downloading and Installing Nessus Essentials</b>  </p>
-Nessus Essentials can be downloaded from [here](https://www.youtube.com/).
+Nessus Essentials can be downloaded from [here](https://www.tenable.com/products/nessus/nessus-essentials)
 <img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
