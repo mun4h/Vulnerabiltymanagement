@@ -20,7 +20,7 @@ This Project shows a simple demonstartion of how to perform Vulnerability Scanni
 <p align="center">
 <b>Downloading and Installing Nessus Essentials</b>  </p>
 Nessus Essentials can be downloaded from [here](https://www.tenable.com/products/nessus/nessus-essentials)
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/mun4h/Vulnerabiltymanagement/blob/main/1.png"/>
 <br />
 <br />
 Select the disk:  <br/>
