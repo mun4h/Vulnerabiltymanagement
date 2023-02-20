@@ -13,12 +13,14 @@ This Project shows a simple demonstartion of how to perform Vulnerability Scanni
 
 <h2>Program walk-through:</h2>
 
-- <b>Download and Install Nessus Essential</b> 
+- <b>Download and Install Nessus Essentials</b> 
 
 - <b>Set a Virtual Machine</b>
 
 <p align="center">
-Launch the utility: <br/>
+Downloading and Installing Nessus Essentials <br/>
+- <b>Nessus Essentials can be downloaded from here</b> 
+
 <img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
