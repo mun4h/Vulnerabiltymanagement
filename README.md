@@ -23,7 +23,7 @@ Nessus Essentials can be downloaded from <a href="https://www.tenable.com/produc
 <br />
 Register by putting First Name, Last Name and Email address then click "Get Started"
 <br />
-On the next page, you will get confirmation that activation code has been sent to the email address used to register
+On the next page, you will get confirmation that activation code has been sent to the email address used to register and click "Download"
 <br />
 Select Windows File, agree to the agreement and Install the application
 
