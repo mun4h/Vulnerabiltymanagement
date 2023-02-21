@@ -25,6 +25,8 @@ Register by putting First Name, Last Name and Email address then click "Get Star
 
 <img src="https://github.com/mun4h/Vulnerabiltymanagement/blob/main/Inked10.jpg" height="70%" width="45%" align="left"/> <img src="https://github.com/mun4h/Vulnerabiltymanagement/blob/main/11.png" height="70%" width="45%" align="right"/>
 
+
+
 <br />
 <br />
 On the next page, you will get confirmation that activation code has been sent to the email address used to register
