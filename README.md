@@ -27,8 +27,10 @@ Register by putting First Name, Last Name and Email address then click "Get Star
 <br />
 On the next page, you will get confirmation that activation code has been sent to the email address used to register
 <img src="https://github.com/mun4h/Vulnerabiltymanagement/blob/main/11.png" height="80%" width="80%"/>
-Select the disk:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br/>
+
+Select Windows File, agree to the agreement and Install the application
+<img src="https://github.com/mun4h/Vulnerabiltymanagement/blob/main/11a" height="80%" width="80%"/>
 <br />
 <br />
 Enter the number of passes: <br/>
