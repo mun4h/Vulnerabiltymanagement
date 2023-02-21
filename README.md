@@ -27,7 +27,8 @@ On the next page, you will get confirmation that activation code has been sent t
 <br />
 Select Windows File, agree to the agreement and Install the application
 
-<img src="https://github.com/mun4h/Vulnerabiltymanagement/blob/main/Inked10.jpg" height="80%" width="50%" align="left"/> <img src="https://github.com/mun4h/Vulnerabiltymanagement/blob/main/11.png" height="80%" width="50%" align="right"/>
+<img src="https://github.com/mun4h/Vulnerabiltymanagement/blob/main/Inked10.jpg" height="80%" width="80%"/> 
+<img src="https://github.com/mun4h/Vulnerabiltymanagement/blob/main/11.png" height="80%" width="80%"/>
 
 <br />
 
