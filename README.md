@@ -28,8 +28,8 @@ Register by putting First Name, Last Name and Email address then click "Get Star
 <br />
 
 <h2 align="left">On the next page, you will get confirmation that activation code has been sent to the email address used to register</h2>
-On the next page, you will get confirmation that activation code has been sent to the email address used to register
-Select Windows File, agree to the agreement and Install the application
+- On the next page, you will get confirmation that activation code has been sent to the email address used to register
+- Select Windows File, agree to the agreement and Install the application
 <img src="https://github.com/mun4h/Vulnerabiltymanagement/blob/main/11a.png" height="80%" width="80%"/>
 <br />
 <br />
