@@ -25,11 +25,11 @@ Register by putting First Name, Last Name and Email address then click "Get Star
 
 <img src="https://github.com/mun4h/Vulnerabiltymanagement/blob/main/Inked10.jpg" height="50%" width="50%" align="left"/>
 <img src="https://github.com/mun4h/Vulnerabiltymanagement/blob/main/11.png" height="50%" width="50%" align="right"/>
-<br/>
-<br/>
+<br />
+<br />
 On the next page, you will get confirmation that activation code has been sent to the email address used to register
 
-<br/>
+<br />
 
 Select Windows File, agree to the agreement and Install the application
 <img src="https://github.com/mun4h/Vulnerabiltymanagement/blob/main/11a.png" height="80%" width="80%"/>
