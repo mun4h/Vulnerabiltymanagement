@@ -27,7 +27,7 @@ Register by putting First Name, Last Name and Email address then click "Get Star
 
 <br />
 
-<h2 align="left">./h2>
+<h2 align="left">.</h2>
 - On the next page, you will get confirmation that activation code has been sent to the email address used to register
 <br />
 - Select Windows File, agree to the agreement and Install the application
