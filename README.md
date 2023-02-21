@@ -34,9 +34,11 @@ Select Windows File, agree to the agreement and Install the application
 <br/>
 <img src="https://github.com/mun4h/Vulnerabiltymanagement/blob/main/11a.png" height="80%" width="80%"/>
 <br />
+<br/>
 <img src="https://github.com/mun4h/Vulnerabiltymanagement/blob/main/12.png" height="80%" width="80%"/>
 <br />
-Enter the number of passes: <br/>
+<img src="https://github.com/mun4h/Vulnerabiltymanagement/blob/main/15.png" height="80%" width="80%"/>
+<br/>
 <img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
