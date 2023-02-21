@@ -30,7 +30,7 @@ On the next page, you will get confirmation that activation code has been sent t
 <br/>
 
 Select Windows File, agree to the agreement and Install the application
-<img src="hhttps://github.com/mun4h/Vulnerabiltymanagement/blob/main/11a.png" height="80%" width="80%"/>
+<img src="https://github.com/mun4h/Vulnerabiltymanagement/blob/main/11a.png" height="80%" width="80%"/>
 <br />
 <br />
 Enter the number of passes: <br/>
