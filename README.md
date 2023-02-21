@@ -52,7 +52,7 @@ On the next page, select "Advanced" and on "continue to localhost(unsafe)"
 Sign up on the next page and sign in the the Nessus console
 <img src="https://github.com/mun4h/Vulnerabiltymanagement/blob/main/19.png" height="80%" width="80%"/>
 <br />
-<img src="https://github.com/mun4h/Vulnerabiltymanagement/blob/main/Inked32.jpg" height="80%" width="80%"/>
+<img src="https://github.com/mun4h/Vulnerabiltymanagement/blob/main/Inked32.jpg" height="100%" width="100%"/>
 
 <br />
 
