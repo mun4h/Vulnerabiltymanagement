@@ -32,25 +32,25 @@ On the next page, you will get confirmation that activation code has been sent t
 <br />
 Select Windows File, agree to the agreement and Install the application
 <br/>
-<img src="https://github.com/mun4h/Vulnerabiltymanagement/blob/main/11a.png" height="80%" width="80%"/>
+<img src="https://github.com/mun4h/Vulnerabiltymanagement/blob/main/11a.png" height="50%" width="80%"/>
 <br />
 <br/>
-<img src="https://github.com/mun4h/Vulnerabiltymanagement/blob/main/12.png" height="80%" width="80%"/>
+<img src="https://github.com/mun4h/Vulnerabiltymanagement/blob/main/12.png" height="50%" width="80%"/>
 <br />
 <br/>
-<img src="https://github.com/mun4h/Vulnerabiltymanagement/blob/main/15.png" height="80%" width="80%"/>
+<img src="https://github.com/mun4h/Vulnerabiltymanagement/blob/main/15.png" height="50%" width="80%"/>
 <br/>
 <br/>
 Double-click the installed application and it will open in a browser and click on the "connect via SSL"
-<img src="https://github.com/mun4h/Vulnerabiltymanagement/blob/main/16.png" height="80%" width="80%"/>
+<img src="https://github.com/mun4h/Vulnerabiltymanagement/blob/main/16.png" height="50%" width="80%"/>
 <br />
 <br />
 On the next page, select "Advanced" and on "continue to localhost(unsafe)"
-<img src="https://github.com/mun4h/Vulnerabiltymanagement/blob/main/17.png" height="80%" width="80%"/>
+<img src="https://github.com/mun4h/Vulnerabiltymanagement/blob/main/17.png" height="50%" width="80%"/>
 <br />
-<img src="https://github.com/mun4h/Vulnerabiltymanagement/blob/main/18.png" height="80%" width="80%"/>
+<img src="https://github.com/mun4h/Vulnerabiltymanagement/blob/main/18.png" height="50%" width="80%"/>
 Sign up on the next page and sign in the the Nessus console
-<img src="https://github.com/mun4h/Vulnerabiltymanagement/blob/main/19.png" height="80%" width="80%"/>
+<img src="https://github.com/mun4h/Vulnerabiltymanagement/blob/main/19.png" height="50%" width="80%"/>
 <br />
 <img src="https://github.com/mun4h/Vulnerabiltymanagement/blob/main/Inked32.jpg" height="100%" width="100%"/>
 <br />
