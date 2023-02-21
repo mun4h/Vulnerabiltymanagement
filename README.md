@@ -44,6 +44,9 @@ Select Windows File, agree to the agreement and Install the application
 Double-click the installed application and it will open in a browser and click on the "connect via SSL"
 <img src="https://github.com/mun4h/Vulnerabiltymanagement/blob/main/16.png" height="80%" width="80%"/>
 <br />
+<br />
+On the next page, select "Advanced" and on "continue to localhost(unsafe)"
+<img src="https://github.com/mun4h/Vulnerabiltymanagement/blob/main/11.png" height="80%" width="80%"/>
 
 <br />
 
