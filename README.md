@@ -41,7 +41,7 @@ Select Windows File, agree to the agreement and Install the application
 <img src="https://github.com/mun4h/Vulnerabiltymanagement/blob/main/15.png" height="80%" width="80%"/>
 <br/>
 <br/>
-Double-click the installed application and it will open in a browser
+Double-click the installed application and it will open in a browser and click on the "connect to SSL"
 <img src="https://github.com/mun4h/Vulnerabiltymanagement/blob/main/16.png" height="80%" width="80%"/>
 <br />
 
