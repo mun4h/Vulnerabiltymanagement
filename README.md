@@ -46,7 +46,9 @@ Double-click the installed application and it will open in a browser and click o
 <br />
 <br />
 On the next page, select "Advanced" and on "continue to localhost(unsafe)"
-<img src="https://github.com/mun4h/Vulnerabiltymanagement/blob/main/11.png" height="80%" width="80%"/>
+<img src="https://github.com/mun4h/Vulnerabiltymanagement/blob/main/17.png" height="80%" width="80%"/>
+<br />
+<img src="https://github.com/mun4h/Vulnerabiltymanagement/blob/main/18.png" height="80%" width="80%"/>
 
 <br />
 
