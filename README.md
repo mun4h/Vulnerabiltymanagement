@@ -19,7 +19,7 @@ This Project shows a simple demonstartion of how to perform Vulnerability Scanni
 <br />
 <p align="center">
 <b>Downloading and Installing Nessus Essentials</b>  </p>
-Nessus Essentials can be downloaded from [here](https://www.tenable.com/products/nessus/nessus-essentials)
+Nessus Essentials can be downloaded from [here]"(https://www.tenable.com/products/nessus/nessus-essentials)"
 <img src="https://github.com/mun4h/Vulnerabiltymanagement/blob/main/10.png" height="80%" width="80%"/>
 <br />
 <br />
