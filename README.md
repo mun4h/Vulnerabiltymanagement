@@ -25,7 +25,8 @@ Register by putting First Name, Last Name and Email address then click "Get Star
 
 <img src="https://github.com/mun4h/Vulnerabiltymanagement/blob/main/Inked10.jpg" height="80%" width="80%"/>
 <br />
-<br />
+On the next page, you will get confirmation that activation code has been sent to the email address used to register
+<img src="https://github.com/mun4h/Vulnerabiltymanagement/blob/main/Inked10.jpg" height="80%" width="80%"/>
 Select the disk:  <br/>
 <img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
