@@ -2,7 +2,7 @@
 
 
 <h2>Description</h2>
-This Project shows a simple demonstartion of how to perform Vulnerability Scanning of a  Windows 10 machine virtual machine using a Scanner called Nessus Essentials.
+This Project shows a simple demonstration of how to perform Vulnerability Scanning of a  Windows 10 machine virtual machine using a Scanner called Nessus Essentials.
 <br />
 
 <h2>Environments Used </h2>
@@ -23,14 +23,14 @@ Nessus Essentials can be downloaded from <a href="https://www.tenable.com/produc
 <br />
 Register by putting First Name, Last Name and Email address then click "Get Started"
 <br />
-On the next page, you will get confirmation that activation code has been sent to the email address used to register and click "Download"
+On the next page, you will get confirmation that the activation code has been sent to the email address used to register and click "Download"
 <br />
 
 <img src="https://github.com/mun4h/Vulnerabiltymanagement/blob/main/Inked10.jpg" height="80%" width="80%"/> 
 <img src="https://github.com/mun4h/Vulnerabiltymanagement/blob/main/11.png" height="80%" width="80%"/>
 
 <br />
-Select Windows File, agree to the agreement and Install the application
+Select Windows File, agree to the agreement, and Install the application
 <br/>
 <img src="https://github.com/mun4h/Vulnerabiltymanagement/blob/main/11a.png" height="50%" width="80%"/>
 <br />
@@ -45,11 +45,11 @@ Double-click the installed application and it will open in a browser and click o
 <img src="https://github.com/mun4h/Vulnerabiltymanagement/blob/main/16.png" height="50%" width="80%"/>
 <br />
 <br />
-On the next page, select "Advanced" and on "continue to localhost(unsafe)"
+On the next page, select "Advanced" and hit "Continue to localhost(unsafe)"
 <img src="https://github.com/mun4h/Vulnerabiltymanagement/blob/main/17.png" height="50%" width="80%"/>
 <br />
 <img src="https://github.com/mun4h/Vulnerabiltymanagement/blob/main/18.png" height="50%" width="80%"/>
-Sign up on the next page and sign in the the Nessus console
+Sign up on the next page and sign in to the Nessus console
 <img src="https://github.com/mun4h/Vulnerabiltymanagement/blob/main/19.png" height="50%" width="80%"/>
 <br />
 <img src="https://github.com/mun4h/Vulnerabiltymanagement/blob/main/Inked32.jpg" height="100%" width="100%"/>
