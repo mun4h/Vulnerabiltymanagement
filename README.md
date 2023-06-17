@@ -21,7 +21,7 @@ This Project shows a simple demonstration of how to perform Vulnerability Scanni
 <b>Downloading and Installing Nessus Essentials</b>  </p>
 Nessus Essentials can be downloaded from <a href="https://www.tenable.com/products/nessus/nessus-essentials">here</a> 
 <br />
-Register by putting First Name, Last Name and Email address then click "Get Started"
+Register by putting your First Name, Last Name, and Email address then click "Get Started"
 <br />
 On the next page, you will get confirmation that the activation code has been sent to the email address used to register and click "Download"
 <br />
@@ -55,7 +55,8 @@ Sign up on the next page and sign in to the Nessus console
 <img src="https://github.com/mun4h/Vulnerabiltymanagement/blob/main/Inked32.jpg" height="100%" width="100%"/>
 <br />
 <br />
-
+<p align="center">
+<b>Set a Virtual Machine</b>  </p>
 </p>
 
 <!--
