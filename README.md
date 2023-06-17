@@ -167,6 +167,11 @@ For Credentialed Scan  </p>
 <br>Make sure Network and Print sharing are both turned on <br />
 <br><img src="https://github.com/mun4h/Vulnerabiltymanagement/blob/main/49.png" height="30%" width="100%"/> 
 <br />
+<br>Disable the User account control settings<br />
+<br><img src="https://github.com/mun4h/Vulnerabiltymanagement/blob/main/50.png" height="30%" width="100%"/> 
+<br />
+<br><img src="https://github.com/mun4h/Vulnerabiltymanagement/blob/main/50a.png" height="30%" width="100%"/> 
+<br />
 
 
 
