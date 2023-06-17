@@ -190,7 +190,7 @@ For Credentialed Scan  </p>
 <br />
 <br><img src="https://github.com/mun4h/Vulnerabiltymanagement/blob/main/39.png" height="30%" width="100%"/> 
 <br />
-<br>When the scan is done, you will notice more vulnerabilities<br />
+<br>When the scan is done, you will notice more vulnerabilities as compared to the scan without credentials<br />
 <br><img src="https://github.com/mun4h/Vulnerabiltymanagement/blob/main/52b.png" height="30%" width="100%"/> 
 <br />
 
