@@ -193,6 +193,9 @@ For Credentialed Scan  </p>
 <br>When the scan is done, you will notice more vulnerabilities as compared to the scan without credentials<br />
 <br><img src="https://github.com/mun4h/Vulnerabiltymanagement/blob/main/52b.png" height="30%" width="100%"/> 
 <br />
+<br>Going to the Vulnerabilities tab will give more information about the scan and go through each of them will give brief information about the Vulnerability and how to remediate it <br />
+<br><img src="https://github.com/mun4h/Vulnerabiltymanagement/blob/main/52c.png" height="30%" width="100%"/> 
+<br />
 
 
 
