@@ -172,7 +172,7 @@ For Credentialed Scan  </p>
 <br />
 <br><img src="https://github.com/mun4h/Vulnerabiltymanagement/blob/main/50a.png" height="30%" width="100%"/> 
 <br />
-<br>Next is to go to Registry Editor and add a key that further disables user account control for the remote account that is to connect to the VM for the Scan as per Nessus recommendation<br />
+<br>Next is to go to Registry Editor and add a key that further disables user account control for the remote account that is to connect to the VM for the Scan as per Tenable's recommendation<br />
 <br><img src="https://github.com/mun4h/Vulnerabiltymanagement/blob/main/51.png" height="30%" width="100%"/> 
 <br />
 <br>Add a new DWORD(32-bit) called "LocalAccountTokenFilterPolicy" in this location: Computer\HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System<br />
@@ -189,6 +189,9 @@ For Credentialed Scan  </p>
 <br><img src="https://github.com/mun4h/Vulnerabiltymanagement/blob/main/52.png" height="30%" width="100%"/> 
 <br />
 <br><img src="https://github.com/mun4h/Vulnerabiltymanagement/blob/main/39.png" height="30%" width="100%"/> 
+<br />
+<br>When the scan is done, you will notice more vulnerabilities<br />
+<br><img src="https://github.com/mun4h/Vulnerabiltymanagement/blob/main/52b.png" height="30%" width="100%"/> 
 <br />
 
 
