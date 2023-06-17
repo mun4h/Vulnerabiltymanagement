@@ -132,6 +132,8 @@ Scanning the Virtual Machine for any Vulnerability  </p>
 
 
 <br><br/>
+<p align="center">
+For Credentialess Scan  </p>
 <br><img src="https://github.com/mun4h/Vulnerabiltymanagement/blob/main/32.png" height="30%" width="100%"/> 
 <br />
 <br>Go to Basic Network Scan to start set up and start the Scan<br />
