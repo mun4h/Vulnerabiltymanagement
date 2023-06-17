@@ -67,7 +67,17 @@ I will be using VMware Workstation Player to host the Virtual Machine
 
 <br>Download the Windows 10 download tool<br />
 <img src="https://github.com/mun4h/Vulnerabiltymanagement/blob/main/2.png" height="50%" width="100%"/> 
-<br>Open the tool and install to create the ISO file<br />
+<br>Open the tool to create the ISO file<br />
+<img src="https://github.com/mun4h/Vulnerabiltymanagement/blob/main/3.jpg" height="50%" width="100%"/> 
+<img src="https://github.com/mun4h/Vulnerabiltymanagement/blob/main/4.jpg" height="50%" width="100%"/>
+<img src="https://github.com/mun4h/Vulnerabiltymanagement/blob/main/5.jpg" height="50%" width="100%"/> 
+<img src="https://github.com/mun4h/Vulnerabiltymanagement/blob/main/6.jpg" height="50%" width="100%"/> 
+<img src="https://github.com/mun4h/Vulnerabiltymanagement/blob/main/7.jpg" height="50%" width="100%"/> 
+<img src="https://github.com/mun4h/Vulnerabiltymanagement/blob/main/8.jpg" height="50%" width="100%"/> 
+<img src="https://github.com/mun4h/Vulnerabiltymanagement/blob/main/9.jpg" height="50%" width="100%"/> 
+
+
+
 <!--
  ```diff
 - text in red
