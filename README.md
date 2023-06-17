@@ -112,6 +112,9 @@ Scanning the Virtual Machine for any Vulnerability  </p>
 <br>
 <img src="https://github.com/mun4h/Vulnerabiltymanagement/blob/main/31.png" height="30%" width="100%"/>
 <br />
+<br>Open Nessus Essential and create a new Scan<br />
+<br><img src="https://github.com/mun4h/Vulnerabiltymanagement/blob/main/32.png" height="30%" width="100%"/> 
+<br />
 
 
 <!--
