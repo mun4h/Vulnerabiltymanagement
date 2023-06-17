@@ -125,9 +125,10 @@ Scanning the Virtual Machine for any Vulnerability  </p>
 <br />
 <br>Open Nessus Essential and create a new Scan<br />
 <br>There are 2 types of Scan that can be set up<br />
-- <b>Credentialed</b> 
+- <b>Credentialess Scan</b>
+- <b>Credentialed Scan- Which generates more results </b> 
 
-- <b>Credentialess</b>
+
 <br><br/>
 <br><img src="https://github.com/mun4h/Vulnerabiltymanagement/blob/main/32.png" height="30%" width="100%"/> 
 <br />
