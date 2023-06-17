@@ -172,6 +172,9 @@ For Credentialed Scan  </p>
 <br />
 <br><img src="https://github.com/mun4h/Vulnerabiltymanagement/blob/main/50a.png" height="30%" width="100%"/> 
 <br />
+<br>Next is to go to Registry Editor and add a key that further disables user account control for the remote account that is to connect to the VM for the Scan as per Nessus recommendation<br />
+<br><img src="https://github.com/mun4h/Vulnerabiltymanagement/blob/main/51.png" height="30%" width="100%"/> 
+<br />
 
 
 
