@@ -124,6 +124,10 @@ Scanning the Virtual Machine for any Vulnerability  </p>
 <br><img src="https://github.com/mun4h/Vulnerabiltymanagement/blob/main/36.png" height="30%" width="100%"/> 
 <br />
 <br>Open Nessus Essential and create a new Scan<br />
+<br>There are 2 types of Scan that can be set up<br />
+- <b>Credentialed</b> (21H2)
+
+- <b>Credentialess</b>
 <br><img src="https://github.com/mun4h/Vulnerabiltymanagement/blob/main/32.png" height="30%" width="100%"/> 
 <br />
 <br>Go to Basic Network Scan to start set up and start the Scan<br />
