@@ -112,9 +112,7 @@ Scanning the Virtual Machine for any Vulnerability  </p>
 <br>
 <img src="https://github.com/mun4h/Vulnerabiltymanagement/blob/main/31.png" height="30%" width="100%"/>
 <br />
-<br>Open Nessus Essential and create a new Scan<br />
-<br><img src="https://github.com/mun4h/Vulnerabiltymanagement/blob/main/32.png" height="30%" width="100%"/> 
-<br />
+
 <br>Ping the VM <br />
 <br><img src="https://github.com/mun4h/Vulnerabiltymanagement/blob/main/33.png" height="30%" width="100%"/> 
 <br />
@@ -125,6 +123,17 @@ Scanning the Virtual Machine for any Vulnerability  </p>
 <br />
 <br><img src="https://github.com/mun4h/Vulnerabiltymanagement/blob/main/36.png" height="30%" width="100%"/> 
 <br />
+<br>Open Nessus Essential and create a new Scan<br />
+<br><img src="https://github.com/mun4h/Vulnerabiltymanagement/blob/main/32.png" height="30%" width="100%"/> 
+<br />
+<br>Go to Basic Network Scan to start set up and start the Scan<br />
+<br><img src="https://github.com/mun4h/Vulnerabiltymanagement/blob/main/37.png" height="30%" width="100%"/> 
+<br />
+<br><img src="https://github.com/mun4h/Vulnerabiltymanagement/blob/main/38.png" height="30%" width="100%"/> 
+<br />
+<br><img src="https://github.com/mun4h/Vulnerabiltymanagement/blob/main/39.png" height="30%" width="100%"/> 
+<br />
+
 
 <!--
  ```diff
