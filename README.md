@@ -64,6 +64,9 @@ I will be using VMware Workstation Player to host the Virtual Machine
 <br />
 <br>Download the Workstation Player<br />
 <img src="https://github.com/mun4h/Vulnerabiltymanagement/blob/main/1.png" height="80%" width="80%"/> 
+
+<br>Download the Windows 10 download tool<br />
+<img src="https://github.com/mun4h/Vulnerabiltymanagement/blob/main/2.png" height="80%" width="80%"/> 
 <!--
  ```diff
 - text in red
