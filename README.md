@@ -133,6 +133,11 @@ Scanning the Virtual Machine for any Vulnerability  </p>
 <br />
 <br><img src="https://github.com/mun4h/Vulnerabiltymanagement/blob/main/39.png" height="30%" width="100%"/> 
 <br />
+<br>Once the scan is done, click on the VM name to view the log result<br />
+<br><img src="https://github.com/mun4h/Vulnerabiltymanagement/blob/main/40.png" height="30%" width="100%"/> 
+<br />
+<br><img src="https://github.com/mun4h/Vulnerabiltymanagement/blob/main/41.png" height="30%" width="100%"/> 
+<br />
 
 
 <!--
