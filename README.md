@@ -118,7 +118,13 @@ Scanning the Virtual Machine for any Vulnerability  </p>
 <br>Ping the VM <br />
 <br><img src="https://github.com/mun4h/Vulnerabiltymanagement/blob/main/33.png" height="30%" width="100%"/> 
 <br />
-
+<br>If the Ping isn't successful, search for Windows Defender Firewall with Advanced Security and follow the prompts to fix the issue <br />
+<br><img src="https://github.com/mun4h/Vulnerabiltymanagement/blob/main/34.png" height="30%" width="100%"/> 
+<br />
+<br><img src="https://github.com/mun4h/Vulnerabiltymanagement/blob/main/35.png" height="30%" width="100%"/> 
+<br />
+<br><img src="https://github.com/mun4h/Vulnerabiltymanagement/blob/main/36.png" height="30%" width="100%"/> 
+<br />
 
 <!--
  ```diff
