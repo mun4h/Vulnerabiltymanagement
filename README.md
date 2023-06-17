@@ -129,8 +129,6 @@ Scanning the Virtual Machine for any Vulnerability  </p>
 <br>There are 2 types of Scan that can be set up<br />
 - <b>Credentialess Scan</b>
 - <b>Credentialed Scan- Which generates more results </b> 
-
-
 <br><br/>
 <p align="center">
 For Credentialess Scan  </p>
