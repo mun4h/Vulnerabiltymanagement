@@ -185,10 +185,11 @@ For Credentialed Scan  </p>
 <br>Go to the VM's name then more and configure<br />
 <br><img src="https://github.com/mun4h/Vulnerabiltymanagement/blob/main/45.png" height="30%" width="100%"/> 
 <br />
-<br>Configure the Scana nd add the VM's username and password<br />
+<br>Configure the Scan, add the VM's username and password then save the setting and start the Scan again <br />
 <br><img src="https://github.com/mun4h/Vulnerabiltymanagement/blob/main/52.png" height="30%" width="100%"/> 
 <br />
-
+<br><img src="https://github.com/mun4h/Vulnerabiltymanagement/blob/main/39.png" height="30%" width="100%"/> 
+<br />
 
 
 
