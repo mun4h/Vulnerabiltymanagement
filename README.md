@@ -58,7 +58,7 @@ Sign up on the next page and sign in to the Nessus console
 <p align="center">
 Set a Virtual Machine  </p>
 </p>
-
+Windows 10 iso can be downloaded from <a href="https://www.tenable.com/products/nessus/nessus-essentials">here</a>
 <!--
  ```diff
 - text in red
