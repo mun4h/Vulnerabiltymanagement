@@ -108,6 +108,10 @@ I will be using VMware Workstation Player to host the Virtual Machine
 <p align="center">
 Scanning the Virtual Machine for any Vulnerability  </p>
 </p>
+<br>First I need to get the IP address of the Virtual Machine<br />
+<br>
+<img src="https://github.com/mun4h/Vulnerabiltymanagement/blob/main/31.png" height="30%" width="100%"/>
+<br />
 
 
 <!--
