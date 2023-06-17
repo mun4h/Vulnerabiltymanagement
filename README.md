@@ -46,11 +46,11 @@ Double-click the installed application and it will open in a browser and click o
 <br />
 <br />
 On the next page, select "Advanced" and hit "Continue to localhost(unsafe)"
-<img src="https://github.com/mun4h/Vulnerabiltymanagement/blob/main/17.png" height="50%" width="100%"/>
+<img src="https://github.com/mun4h/Vulnerabiltymanagement/blob/main/17.png" height="30%" width="100%"/>
 <br />
-<img src="https://github.com/mun4h/Vulnerabiltymanagement/blob/main/18.png" height="50%" width="100%"/>
+<img src="https://github.com/mun4h/Vulnerabiltymanagement/blob/main/18.png" height="30%" width="100%"/>
 Sign up on the next page and sign in to the Nessus console
-<img src="https://github.com/mun4h/Vulnerabiltymanagement/blob/main/19.png" height="50%" width="100%"/>
+<img src="https://github.com/mun4h/Vulnerabiltymanagement/blob/main/19.png" height="30%" width="100%"/>
 <br />
 <img src="https://github.com/mun4h/Vulnerabiltymanagement/blob/main/Inked32.jpg" height="100%" width="100%"/>
 <br />
@@ -63,19 +63,24 @@ I will be using VMware Workstation Player to host the Virtual Machine
 <br>VMware can be downloaded <a href="https://www.vmware.com/ca/products/workstation-player.html">here</a> and Windows 10 download tool can be downloaded from <a href="https://www.microsoft.com/en-ca/software-download/windows10">here</a>
 <br />
 <br>Download the Workstation Player<br />
-<img src="https://github.com/mun4h/Vulnerabiltymanagement/blob/main/1.png" height="50%" width="100%"/> 
+<img src="https://github.com/mun4h/Vulnerabiltymanagement/blob/main/1.png" height="30%" width="100%"/> 
 
 <br>Download the Windows 10 download tool<br />
-<img src="https://github.com/mun4h/Vulnerabiltymanagement/blob/main/2.png" height="50%" width="100%"/> 
+<img src="https://github.com/mun4h/Vulnerabiltymanagement/blob/main/2.png" height="30%" width="100%"/> 
 <br>Open the tool to create the ISO file<br />
-<img src="https://github.com/mun4h/Vulnerabiltymanagement/blob/main/3.png" height="50%" width="100%"/>
+<img src="https://github.com/mun4h/Vulnerabiltymanagement/blob/main/3.png" height="30%" width="100%"/>
 <br>
-<img src="https://github.com/mun4h/Vulnerabiltymanagement/blob/main/4.png" height="50%" width="100%"/>
-<br><img src="https://github.com/mun4h/Vulnerabiltymanagement/blob/main/5.png" height="50%" width="100%"/> 
-<br><img src="https://github.com/mun4h/Vulnerabiltymanagement/blob/main/6.png" height="50%" width="100%"/> 
-<br><img src="https://github.com/mun4h/Vulnerabiltymanagement/blob/main/7.png" height="50%" width="100%"/> 
-<br><img src="https://github.com/mun4h/Vulnerabiltymanagement/blob/main/8.png" height="50%" width="100%"/> 
-<br><img src="https://github.com/mun4h/Vulnerabiltymanagement/blob/main/9.png" height="50%" width="100%"/> 
+<img src="https://github.com/mun4h/Vulnerabiltymanagement/blob/main/4.png" height="30%" width="100%"/>
+<br>
+<img src="https://github.com/mun4h/Vulnerabiltymanagement/blob/main/5.png" height="30%" width="100%"/> 
+<br>
+<img src="https://github.com/mun4h/Vulnerabiltymanagement/blob/main/6.png" height="30%" width="100%"/> 
+<br>
+<img src="https://github.com/mun4h/Vulnerabiltymanagement/blob/main/7.png" height="30%" width="100%"/> 
+<br>
+<img src="https://github.com/mun4h/Vulnerabiltymanagement/blob/main/8.png" height="30%" width="100%"/> 
+<br>
+<img src="https://github.com/mun4h/Vulnerabiltymanagement/blob/main/9.png" height="30%" width="100%"/> 
 
 
 
