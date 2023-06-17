@@ -82,7 +82,7 @@ I will be using VMware Workstation Player to host the Virtual Machine
 <br>
 <img src="https://github.com/mun4h/Vulnerabiltymanagement/blob/main/9.png" height="30%" width="100%"/> <br />
 
-<br>Open Installed VMWare Player Workstation and add the downloaded ISO <br />
+<br>Open the installed VMWare Player Workstation, add the downloaded ISO, and Install Windows 10 OS <br />
 <br><img src="https://github.com/mun4h/Vulnerabiltymanagement/blob/main/20.png" height="30%" width="100%"/> 
 <br />
 <br><img src="https://github.com/mun4h/Vulnerabiltymanagement/blob/main/21.png" height="30%" width="100%"/> 
