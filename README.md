@@ -59,6 +59,7 @@ Sign up on the next page and sign in to the Nessus console
 Set a Virtual Machine  </p>
 </p>
 I will be using VMware to host the Virtual Machine 
+<br>
 <br>VMware can be downloaded <a href="https://www.vmware.com/ca/products/workstation-player.html">here</a> and Windows 10 download tool can be downloaded from <a href="https://www.microsoft.com/en-ca/software-download/windows10">here</a>
 <br />
 <!--
