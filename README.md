@@ -46,11 +46,11 @@ Double-click the installed application and it will open in a browser and click o
 <br />
 <br />
 On the next page, select "Advanced" and hit "Continue to localhost(unsafe)"
-<img src="https://github.com/mun4h/Vulnerabiltymanagement/blob/main/17.png" height="50%" width="80%"/>
+<img src="https://github.com/mun4h/Vulnerabiltymanagement/blob/main/17.png" height="50%" width="100%"/>
 <br />
-<img src="https://github.com/mun4h/Vulnerabiltymanagement/blob/main/18.png" height="50%" width="80%"/>
+<img src="https://github.com/mun4h/Vulnerabiltymanagement/blob/main/18.png" height="50%" width="100%"/>
 Sign up on the next page and sign in to the Nessus console
-<img src="https://github.com/mun4h/Vulnerabiltymanagement/blob/main/19.png" height="50%" width="80%"/>
+<img src="https://github.com/mun4h/Vulnerabiltymanagement/blob/main/19.png" height="50%" width="100%"/>
 <br />
 <img src="https://github.com/mun4h/Vulnerabiltymanagement/blob/main/Inked32.jpg" height="100%" width="100%"/>
 <br />
