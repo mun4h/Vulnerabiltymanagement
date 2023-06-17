@@ -56,7 +56,7 @@ Sign up on the next page and sign in to the Nessus console
 <br />
 <br />
 <p align="center">
-<b>Set a Virtual Machine</b>  </p>
+Set a Virtual Machine  </p>
 </p>
 
 <!--
