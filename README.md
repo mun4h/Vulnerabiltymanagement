@@ -138,6 +138,14 @@ Scanning the Virtual Machine for any Vulnerability  </p>
 <br />
 <br><img src="https://github.com/mun4h/Vulnerabiltymanagement/blob/main/41.png" height="30%" width="100%"/> 
 <br />
+<br>Go to Vulnerabilities and any of the vulnerabilities listed<br />
+<br><img src="https://github.com/mun4h/Vulnerabiltymanagement/blob/main/42.png" height="30%" width="100%"/> 
+<br />
+<br><img src="https://github.com/mun4h/Vulnerabiltymanagement/blob/main/43.png" height="30%" width="100%"/> 
+<br />
+<br><img src="https://github.com/mun4h/Vulnerabiltymanagement/blob/main/44.png" height="30%" width="100%"/> 
+<br />
+<br>Implement the solution to remediate the Vulnerability<br />
 
 
 <!--
