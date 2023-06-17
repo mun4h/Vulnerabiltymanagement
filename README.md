@@ -182,9 +182,13 @@ For Credentialed Scan  </p>
 <br><img src="https://github.com/mun4h/Vulnerabiltymanagement/blob/main/51b.png" height="30%" width="100%"/> 
 <br />
 <br>Next is to edit the already existing scan with credentials<br />
-<br>Go to the VM's name then manage and configure<br />
+<br>Go to the VM's name then more and configure<br />
 <br><img src="https://github.com/mun4h/Vulnerabiltymanagement/blob/main/45.png" height="30%" width="100%"/> 
 <br />
+<br>Configure the Scana nd add the VM's username and password<br />
+<br><img src="https://github.com/mun4h/Vulnerabiltymanagement/blob/main/52.png" height="30%" width="100%"/> 
+<br />
+
 
 
 
