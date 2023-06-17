@@ -175,7 +175,12 @@ For Credentialed Scan  </p>
 <br>Next is to go to Registry Editor and add a key that further disables user account control for the remote account that is to connect to the VM for the Scan as per Nessus recommendation<br />
 <br><img src="https://github.com/mun4h/Vulnerabiltymanagement/blob/main/51.png" height="30%" width="100%"/> 
 <br />
-
+<br>Add a new DWORD(32-bit) called "LocalAccountTokenFilterPolicy" in this location: Computer\HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System<br />
+<br>Set the Value to 1 and restart the VM<br />
+<br><img src="https://github.com/mun4h/Vulnerabiltymanagement/blob/main/51a.png" height="30%" width="100%"/> 
+<br />
+<br><img src="https://github.com/mun4h/Vulnerabiltymanagement/blob/main/51b.png" height="30%" width="100%"/> 
+<br />
 
 
 
