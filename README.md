@@ -154,6 +154,21 @@ For Credentialess Scan  </p>
 <br><img src="https://github.com/mun4h/Vulnerabiltymanagement/blob/main/44.png" height="30%" width="100%"/> 
 <br />
 <br>Implement the solution to remediate the Vulnerability<br />
+<br><br/>
+<p align="center">
+For Credentialed Scan  </p>
+<br>Go to the VM, then go to the Services on it and enable ad start Remote registry which will allow the scanner to the VM's registry<br />
+<br><img src="https://github.com/mun4h/Vulnerabiltymanagement/blob/main/46.png" height="30%" width="100%"/> 
+<br />
+<br><img src="https://github.com/mun4h/Vulnerabiltymanagement/blob/main/47.png" height="30%" width="100%"/> 
+<br />
+<br><img src="https://github.com/mun4h/Vulnerabiltymanagement/blob/main/48.png" height="30%" width="100%"/> 
+<br />
+<br>Make sure Network and Print sharing are both turned on <br />
+<br><img src="https://github.com/mun4h/Vulnerabiltymanagement/blob/main/49.png" height="30%" width="100%"/> 
+<br />
+
+
 
 
 <!--
