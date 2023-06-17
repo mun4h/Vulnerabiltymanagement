@@ -83,9 +83,28 @@ I will be using VMware Workstation Player to host the Virtual Machine
 <img src="https://github.com/mun4h/Vulnerabiltymanagement/blob/main/9.png" height="30%" width="100%"/> <br />
 
 <br>Open Installed VMWare Player Workstation and add the downloaded ISO <br />
-<br><img src="https://github.com/mun4h/Vulnerabiltymanagement/blob/main/20.png" height="50%" width="100%"/> 
+<br><img src="https://github.com/mun4h/Vulnerabiltymanagement/blob/main/20.png" height="30%" width="100%"/> 
 <br />
-
+<br><img src="https://github.com/mun4h/Vulnerabiltymanagement/blob/main/21.png" height="30%" width="100%"/> 
+<br />
+<br><img src="https://github.com/mun4h/Vulnerabiltymanagement/blob/main/22.png" height="30%" width="100%"/> 
+<br />
+<br><img src="https://github.com/mun4h/Vulnerabiltymanagement/blob/main/23.png" height="30%" width="100%"/> 
+<br />
+<br><img src="https://github.com/mun4h/Vulnerabiltymanagement/blob/main/24.png" height="30%" width="100%"/> 
+<br />
+<br><img src="https://github.com/mun4h/Vulnerabiltymanagement/blob/main/25.png" height="30%" width="100%"/> 
+<br />
+<br><img src="https://github.com/mun4h/Vulnerabiltymanagement/blob/main/26.png" height="30%" width="100%"/> 
+<br />
+<br><img src="https://github.com/mun4h/Vulnerabiltymanagement/blob/main/27.png" height="30%" width="100%"/> 
+<br />
+<br><img src="https://github.com/mun4h/Vulnerabiltymanagement/blob/main/28.png" height="30%" width="100%"/> 
+<br />
+<br><img src="https://github.com/mun4h/Vulnerabiltymanagement/blob/main/29.png" height="30%" width="100%"/> 
+<br />
+<br><img src="https://github.com/mun4h/Vulnerabiltymanagement/blob/main/30.png" height="30%" width="100%"/> 
+<br />
 
 
 <!--
