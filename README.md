@@ -2,7 +2,7 @@
 
 
 <h2>Description</h2>
-This Project shows a simple demonstration of how to perform Vulnerability Scanning of a  Windows 10 machine virtual machine using a Scanner called Nessus Essentials.
+This Project shows a simple demonstration of how to perform a Vulnerability scan on a  Windows 10 machine virtual machine using a Scanner called Nessus Essentials.
 <br />
 
 <h2>Environments Used </h2>
