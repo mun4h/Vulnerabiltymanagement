@@ -105,8 +105,8 @@ I will be using VMware Workstation Player to host the Virtual Machine
 <br />
 <br><img src="https://github.com/mun4h/Vulnerabiltymanagement/blob/main/30.png" height="30%" width="100%"/> 
 <br />
-<p align="center">
-Scanning the Virtual Machine for any Vulnerability  </p>
+<p align="center"><b>
+Scanning the Virtual Machine for any Vulnerability </b>b </p>
 </p>
 <br>First I need to get the IP address of the Virtual Machine<br />
 <br>
